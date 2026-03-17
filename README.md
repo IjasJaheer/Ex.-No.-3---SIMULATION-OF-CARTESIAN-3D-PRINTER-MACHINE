@@ -48,20 +48,21 @@
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/3b394ffa-4aea-4e56-a12b-eccab47afee5)
+![WhatsApp Image 2026-03-15 at 6 13 20 PM](https://github.com/user-attachments/assets/36cccd29-05d2-4fbd-aebf-c2bccf14e1cd)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/cf47ce68-c7b4-4cbc-b57f-ccd68b7bcbb7)
+![WhatsApp Image 2026-03-15 at 6 13 20 PM (1)](https://github.com/user-attachments/assets/b88be7e5-482c-45b6-8e48-846fe6a9ca5c)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/803397cb-5685-4bc2-82c2-6b1d1e3a2eec)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/45ac4da8-f236-4e23-b0ce-a77aac6ac8b0)
+![WhatsApp Image 2026-03-15 at 6 13 21 PM](https://github.com/user-attachments/assets/778f15a3-1d0d-4a3c-afa5-809a01e78238)
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
-## Output:
+## Output
 
-### Name: 
-### Register Number:
+<img width="1920" height="1080" alt="Screenshot 2026-03-12 112434" src="https://github.com/user-attachments/assets/f481650d-7900-4031-92b2-d5b5df24c956" />
+
+
+### Name: J IJAS
+### Register Number: 212225230102
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
